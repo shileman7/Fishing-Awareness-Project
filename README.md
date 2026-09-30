@@ -1,1 +1,1 @@
-# Fishing-Awareness-Project
+# Phishing-Awareness-Project
